@@ -31,7 +31,7 @@ Leyenda: OK = existe y parece completa · REVISAR = existe pero incompleta o sin
   - Pelota (0,0) escala 0.5, gravedad 1, `ControlPelota` (vel. 3, impulso 4 con Space).
   - Mejora C: `OnCollisionEnter2D` con el objeto "Suelo" muestra `Debug.Log("La pelota cayó al suelo.")`.
   - Suelo (0,-4) escala (14,1), estático.
-- Mejoras B y D (pruebas y reflexión): ver `Clase05_Pruebas.md`. Están sin llenar porque requieren ejecutar la escena en Unity.
+- Mejoras B y D (pruebas y reflexión): no incluidas en el repo.
 
 ## Estructura
 - `Assets/Scenes/` → `SampleScene` (Build Settings), `Clases_01-04/`, `Clase05/`
